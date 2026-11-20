@@ -1,0 +1,9 @@
+:HL["/kiteboarding-os/_next/static/chunks/2lscpjjivmq_j.css","style"]
+:HL["/kiteboarding-os/_next/static/media/07c7676b89ed2778-s.p.2bn3s6zvc0dyp.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/kiteboarding-os/_next/static/media/7069abc9ca2a3316-s.p.009t6yts_a2k4.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/kiteboarding-os/_next/static/chunks/0mr8qr67ya56q.css","style"]
+:HL["/kiteboarding-os/media/stock/kiteboard.webp","image",{"imageSrcSet":"/kiteboarding-os/media/stock/kiteboard-1200.webp 1200w, /kiteboarding-os/media/stock/kiteboard.webp 1802w","imageSizes":"(max-width: 1023px) 46vw, 24vw"}]
+:HL["/kiteboarding-os/media/stock/kite.webp","image"]
+:HL["/kiteboarding-os/brand/os-compass.svg","image"]
+1:[["children",{"s":"__PAGE__","h":160}]]
+0:{"b":"5Q5QouH6iI9_Dm2oSqtLx","t":{"t":{"s":"","h":80,"c":"$Q1"}}}

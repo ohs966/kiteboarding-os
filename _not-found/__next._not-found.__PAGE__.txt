@@ -1,0 +1,45 @@
+1:"$Sreact.fragment"
+3:"/kiteboarding-os/_next/static/chunks/3qfy96eoyh-ek.js"
+4:I[39756,["$3"],"default"]
+5:I[37457,["$3"],"default"]
+c:I[97367,["$3"],"OutletBoundary"]
+f:"ViewportBoundary"
+10:I[97367,["$3"],"$f"]
+11:"MetadataBoundary"
+12:I[97367,["$3"],"$11"]
+13:"$Sreact.suspense"
+:HL["/kiteboarding-os/_next/static/chunks/2lscpjjivmq_j.css","style"]
+2:T56b,{"@context":"https://schema.org","@type":["SportsActivityLocation","LocalBusiness"],"name":"Kiteboarding OS","alternateName":"The Old School","description":"Kitesurfing, windsurfing and wing foiling lessons, gear rental and family water fun on the flat-water lagoon of Nabq Bay, Sharm El Sheikh. Book on WhatsApp.","url":"https://ohs966.github.io/kiteboarding-os","telephone":"+201150919620","image":"https://ohs966.github.io/kiteboarding-os/og.jpg","address":{"@type":"PostalAddress","streetAddress":"Radamis Tirana City Hotel, Rixos Radamis Beach, El-Salam Street","addressLocality":"Sharm El Sheikh","addressRegion":"South Sinai","postalCode":"8753102","addressCountry":"EG"},"geo":{"@type":"GeoCoordinates","latitude":28.0053865,"longitude":34.43633},"hasMap":"https://www.google.com/maps?cid=7339179297993689422","openingHours":"Mo-Su 06:00-18:00","areaServed":"Nabq Bay, Sharm El Sheikh","knowsLanguage":["English","Arabic","Russian","German","Italian"],"sameAs":["https://www.instagram.com/kiteboardingos","https://www.facebook.com/kiteboardingos","https://www.tiktok.com/@kiteboardingoss","https://www.youtube.com/@kiteboardingos","https://t.me/kiteboardingos","https://www.google.com/maps?cid=7339179297993689422","https://www.tripadvisor.com.eg/Attraction_Review-g303855-d23573266-Reviews-The_Old_School_Kiteboarding_Windsurfing_Wakeboarding_Kitesurfing_Kayaking-Nabq_B.html"]}7:X
+a:X
+a:C
+b:[["children",{"s":"__PAGE__","h":160,"d":{"r":["$","$1","c",{"children":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":"$0:t:t:d:r:props:children:1:props:children:1:props:children:props:notFound:0:1:props:style","children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":"$0:t:t:d:r:props:children:1:props:children:1:props:children:props:notFound:0:1:props:children:props:children:1:props:style","children":404}],["$","div",null,{"style":"$0:t:t:d:r:props:children:1:props:children:1:props:children:props:notFound:0:1:props:children:props:children:2:props:style","children":["$","h2",null,{"style":"$0:t:t:d:r:props:children:1:props:children:1:props:children:props:notFound:0:1:props:children:props:children:2:props:children:props:style","children":"This page could not be found."}]}]]}]}]],null,["$","$Lc",null,{"children":"$Ld"}]]}],"p":"$@e","v":null,"s":"$7"}}]]
+8:[["children",{"s":"/_not-found","h":96,"d":{"r":["$","$1","c",{"children":[null,["$","$L4",null,{"parallelRouterKey":"children","template":["$","$L5",null,{}]}]]}],"p":"$@9","v":"$a","s":"$7"},"c":"$Qb"}]]
+0:{"t":{"t":{"s":"","h":80,"d":{"r":["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/kiteboarding-os/_next/static/chunks/2lscpjjivmq_j.css","precedence":"next"}],["$","script","script-0",{"src":"/kiteboarding-os/_next/static/chunks/3qfy96eoyh-ek.js","async":true}]],["$","html",null,{"lang":"en","className":"o_qy2q_variable g5YQgG_variable","children":[["$","head",null,{"children":["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"$2"}}]}],["$","body",null,{"children":["$","$L4",null,{"parallelRouterKey":"children","template":["$","$L5",null,{}],"notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]]}]}]]}]]}],"p":"$@6","v":null,"s":"$7"},"c":"$Q8"},"h":{"r":["$","$1","h",{"children":[["$","meta",null,{"name":"robots","content":"noindex"}],["$","$L10",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","2",{"name":"theme-color","content":"#1d3557"}]]}],["$","$L12",null,{"children":[["$","div",null,{"hidden":true,"children":["$","$13",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"Kiteboarding OS | Kitesurfing, Windsurfing & Wing Foil School in Nabq Bay, Sharm El Sheikh"}],["$","meta","1",{"name":"description","content":"Kitesurfing, windsurfing and wing foiling lessons, gear rental and family water fun on the flat-water lagoon of Nabq Bay, Sharm El Sheikh. Book on WhatsApp."}],["$","meta","2",{"name":"robots","content":"noindex, nofollow"}],["$","link","3",{"rel":"canonical","href":"https://ohs966.github.io/kiteboarding-os/"}],"$L14","$L15","$L16","$L17","$L18","$L19","$L1a","$L1b","$L1c","$L1d","$L1e","$L1f","$L20","$L21","$L22","$L23"]}]}],null]}],"$L24"]}],"p":"$@25","v":null,"s":"$7"}},"a":"$@26","u":"$@27","b":"5Q5QouH6iI9_Dm2oSqtLx"}
+29:I[27201,["$3"],"IconMark"]
+d:["$","$13",null,{"name":"Next.MetadataOutlet","children":"$@28"}]
+14:["$","meta","4",{"property":"og:title","content":"Kiteboarding OS | Kitesurfing, Windsurfing & Wing Foil School in Nabq Bay, Sharm El Sheikh"}]
+15:["$","meta","5",{"property":"og:description","content":"Kitesurfing, windsurfing and wing foiling lessons, gear rental and family water fun on the flat-water lagoon of Nabq Bay, Sharm El Sheikh. Book on WhatsApp."}]
+16:["$","meta","6",{"property":"og:url","content":"https://ohs966.github.io/kiteboarding-os/"}]
+17:["$","meta","7",{"property":"og:site_name","content":"Kiteboarding OS"}]
+18:["$","meta","8",{"property":"og:locale","content":"en_GB"}]
+19:["$","meta","9",{"property":"og:image","content":"https://ohs966.github.io/kiteboarding-os/og.jpg"}]
+1a:["$","meta","10",{"property":"og:image:width","content":"1200"}]
+1b:["$","meta","11",{"property":"og:image:height","content":"630"}]
+1c:["$","meta","12",{"property":"og:image:alt","content":"A kitesurfer jumps above the lagoon with the Sinai mountains behind."}]
+1d:["$","meta","13",{"property":"og:type","content":"website"}]
+1e:["$","meta","14",{"name":"twitter:card","content":"summary_large_image"}]
+1f:["$","meta","15",{"name":"twitter:title","content":"Kiteboarding OS | Kitesurfing, Windsurfing & Wing Foil School in Nabq Bay, Sharm El Sheikh"}]
+20:["$","meta","16",{"name":"twitter:description","content":"Kitesurfing, windsurfing and wing foiling lessons, gear rental and family water fun on the flat-water lagoon of Nabq Bay, Sharm El Sheikh. Book on WhatsApp."}]
+21:["$","meta","17",{"name":"twitter:image","content":"https://ohs966.github.io/kiteboarding-os/og.jpg"}]
+22:["$","link","18",{"rel":"icon","href":"/kiteboarding-os/brand/os-compass.svg"}]
+23:["$","$L29","19",{}]
+24:["$","meta",null,{"name":"next-size-adjust","content":""}]
+7:300
+28:null
+27:true
+7:C
+26:0
+9:"$undefined"
+6:"$undefined"
+25:"$undefined"
+e:"$undefined"
